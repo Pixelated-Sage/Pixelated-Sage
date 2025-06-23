@@ -2,98 +2,124 @@
 
 **AI/ML Engineer** | **Full-Stack Developer** | **BTech CSE - Super 60 Batch**
 
-> Building intelligent web applications that solve real-world problems
+> Passionate about solving real-world problems with code, data, and intelligence
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus (As of June 2025)
 
-- 🧠 **Machine Learning Engineering** - Building production-ready ML models
-- 🌐 **Full-Stack Development** - React + Django integration
-- 📊 **Data Science** - Advanced analytics with Python
-- 🏗️ **System Design** - Scalable architecture patterns
+* 🤖 **Machine Learning Engineering**: Model training, pipelines & MLOps
+* 🌐 **Full-Stack Development**: Django + React.js + RESTful APIs
+* 📊 **Data Analytics**: Real-time insights via Pandas, Power BI
+* 🧠 **DSA Mastery**: C++ Problem Solving + Competitive Programming
+* 💻 **Project Deployment**: Dockerized ML APIs and Web Apps
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Python` `C++` `JavaScript` `SQL`
+**Languages**
+`Python` `C++` `JavaScript` `SQL` `HTML` `CSS`
 
-**Frameworks & Libraries**  
-`Django` `React.js` `Tailwind CSS` `Pandas` `NumPy` `Scikit-learn`
+**Frameworks & Libraries**
+`Django` `React.js` `Tailwind CSS` `Pandas` `NumPy` `Scikit-learn` `TensorFlow`
 
-**Tools & Platforms**  
-`Linux` `Git` `Firebase` `Power BI` `Docker`
+**Tools & Platforms**
+`Linux (Fedora)` `Git & GitHub` `Firebase` `Power BI` `Vercel` `Docker`
 
 ---
 
-## 📈 Learning Progress
+## 🚧 Learning Timeline & Focus
 
-![Python DSA Progress](https://img.shields.io/badge/DSA_Problems_Solved-150+-brightgreen?style=flat-square&logo=leetcode)
-![Current Learning](https://img.shields.io/badge/Currently_Learning-Machine_Learning-blue?style=flat-square)
-![Projects Completed](https://img.shields.io/badge/Projects_Completed-8+-orange?style=flat-square)
+* 📌 **June 2025**:
 
-**Active Repositories:**
-- 📚 [Python-DSA](https://github.com/Pixelated-Sage/Python-DSA) - Data Structures & Algorithms practice
-- 🤖 [ML-Projects](https://github.com/Pixelated-Sage/ML-Projects) - Machine Learning implementations
-- 🌐 [Web-Development](https://github.com/Pixelated-Sage/Web-Development) - Full-stack projects
+  * Completed Django course (Udemy)
+  * Started ML Libraries: NumPy, Pandas
+  * Working on Django + AI integration project
+
+* 🧱 **July 2025 Goal**:
+
+  * Master SQL, Git workflows
+  * Resume Leetcode (100 problems target)
+  * Build full-stack AI projects
+
+* 💡 **Next 90 Days Focus**:
+
+  * Learn TensorFlow, Sklearn deeply
+  * Deploy 2 AI-based web apps
+  * Attend 2 hackathons (targeting August–September)
+
+---
+
+## 🧠 Learning Progress
+
+![Leetcode Badge](https://img.shields.io/badge/DSA_Problems_Solved-150+-brightgreen?style=for-the-badge\&logo=leetcode)
+![Learning](https://img.shields.io/badge/Currently_Learning-Machine_Learning-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects_Completed-10+-orange?style=for-the-badge)
+
+**📌 Key Repositories:**
+
+* [Python-DSA](https://github.com/Pixelated-Sage/Python-DSA): 150+ structured problems
+* [ML-Projects](https://github.com/Pixelated-Sage/ML-Projects): Linear Regression, Decision Trees, Image Classifiers
+* [ERP-2.0](https://github.com/Pixelated-Sage/ERP-2.0): Real-world Django app for college management
 
 ---
 
 ## 🚀 Featured Projects
 
-### [ERP 2.0](https://github.com/Pixelated-Sage/ERP-2.0)
-Enhanced college management system with analytics dashboard  
-`Django` `PostgreSQL` `Chart.js` `Bootstrap`
+### 🌐 [ERP 2.0](https://github.com/Pixelated-Sage/ERP-2.0)
 
-### [Cargi Delivery Robot](https://github.com/Pixelated-Sage/Cargi-Robot)
-Autonomous delivery system with IoT integration  
-`Arduino` `Sensor Integration` `Path Planning`
+> College management system with advanced analytics
 
-### [AI-Powered Web App](https://github.com/Pixelated-Sage/AI-Web-App) *(In Development)*
-Full-stack application with ML model integration  
-`React` `Django REST` `TensorFlow` `Docker`
+* Stack: Django, PostgreSQL, Bootstrap
+* Features: Role-based auth, performance charts, result analyzer
+
+### 🤖 [Cargi Delivery Robot](https://github.com/Pixelated-Sage/Cargi-Robot)
+
+> Arduino-based autonomous cart for indoor delivery
+
+* Technologies: Ultrasonic Sensors, Obstacle Avoidance Logic, Embedded C
+
+### 🧠 [AI-Powered Web App](https://github.com/Pixelated-Sage/AI-Web-App) *(WIP)*
+
+> ML model integrated into web app for intelligent predictions
+
+* Stack: Django REST + React + Scikit-learn
+* Use Case: Resume Matcher, Disease Predictor, Email Classifier
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pixelated-Sage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixelated-Sage&layout=compact&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pixelated-Sage&theme=dark" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Pixelated-Sage&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixelated-Sage&layout=compact&theme=radical" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pixelated-Sage&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## 🌟 Achievements
+## 🏆 Achievements
 
-- 🏆 **Super 60 Batch** - Top-tier CSE program
-- 🎯 **5+ Technical Workshops** organized
-- 📈 **150+ DSA Problems** solved
-- 🎨 **70+ Event Graphics** designed
-- 🎤 **Class Representative** & Event Anchor
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sharma-080b2530b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pixelated-Sage)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.sharma@example.com)
+* 🎓 **Super 60 Program Coordinator** – Mentoring 60 students in tech & growth
+* 👨‍🏫 **SkillUp C++ Workshop** – Taught 50+ juniors C++ & DSA
+* 💻 **Hackathons** – 2x Participant: ERP Enhancer, ChatBot ML
+* 🧠 **Self-Learned ML/Django** with project-based curriculum
+* 🖌️ **70+ Graphics Designed** for college events, workshops
 
 ---
 
-<div align="center">
-  <i>⚡ "Building the future, one commit at a time" ⚡</i>
-</div>
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhisheksharma-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abhishek-sharma-080b2530b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Pixelated--Sage-black?style=for-the-badge\&logo=github)](https://github.com/Pixelated-Sage)
+[![Gmail](https://img.shields.io/badge/Gmail-abhishek.sharma%40gmail.com-red?style=for-the-badge\&logo=gmail)](mailto:abhishek.sharma@gmail.com)
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pixelated-Sage&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <br>
+  <i>⚡ "Building the future, one commit at a time." ⚡</i>
 </div>
