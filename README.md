@@ -2,8 +2,6 @@
 
 **AI/ML Engineer** | **Full-Stack Developer** | **BTech CSE - Super 60 Batch**
 
-> Turning real-world challenges into intelligent digital solutions
-
 ---
 
 ## 🧠 Core Expertise
@@ -21,36 +19,13 @@
 `Python` `C++` `JavaScript` `SQL` `HTML` `CSS`
 
 **Libraries & Frameworks:**
-`Django` `React.js` `Tailwind CSS` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+`Django` `React.js` `Tailwind CSS` `Scikit-learn` `Pandas` `NumPy`
 
 **Tools & Platforms:**
-`Linux (Fedora)` `Git/GitHub` `Firebase` `Power BI` `Adobe Suite` `Figma` `Arduino`
+`Linux (Fedora)` `Git/GitHub` `Power BI` `Figma` `Arduino`
 
 ---
 
-## 🚀 Projects Showcase
-
-### 🧾 [ERP 2.0](https://github.com/Pixelated-Sage/ERP-2.0)
-
-**Next-gen college management system with analytics**
-`Django` `Chart.js` `PostgreSQL`
-
-### 🤖 [Cargi Delivery Robot](https://github.com/Pixelated-Sage/Cargi-Robot)
-
-**Obstacle-avoiding Arduino delivery robot**
-`Ultrasonic Sensors` `Arduino Uno` `C++`
-
-### 🧠 [AI Web App (WIP)](https://github.com/Pixelated-Sage/AI-Web-App)
-
-**Full-stack intelligent web platform**
-`React` `Django REST` `TensorFlow` `Docker`
-
-### 📊 [Power BI Dashboards](https://github.com/Pixelated-Sage/Data-Visuals)
-
-**Interactive dashboards for insights**
-`Power BI` `Excel` `Data Cleaning`
-
----
 
 ## 📊 GitHub Analytics
 
