@@ -49,16 +49,6 @@
 
 ---
 
-## 🌟 Highlights
-
-* 🏆 **Super 60 Batch** – Elite Computer Science cohort
-* 🧑‍🏫 **SkillUp Lead** – Led 5-day C++ workshop for 100+ juniors
-* 🎤 **Event Anchor** – College & tech events
-* 🧠 **Hackathon Projects** – ERP 2.0, Automation Systems
-* 🎨 **70+ Posters** – Official college designer
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Sharma-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishek-sharma-080b2530b/)
