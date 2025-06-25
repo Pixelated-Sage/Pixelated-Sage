@@ -6,7 +6,6 @@
 
 ## 🧠 Core Expertise
 
-* **Machine Learning** – Practical ML models with Python
 * **Full-Stack Web Development** – Django + React.js
 * **Data Science & Analysis** – Pandas, NumPy, Power BI
 * **UI/UX & Automation** – Tailwind CSS, Arduino, Canva, Premiere Pro
@@ -16,7 +15,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**
-`Python` `C++` `JavaScript` `SQL` `HTML` `CSS`
+`Python` `C++` `JavaScript` `SQL` `HTML` `CSS` `Java`
 
 **Libraries & Frameworks:**
 `Django` `React.js` `Tailwind CSS` `Scikit-learn` `Pandas` `NumPy`
