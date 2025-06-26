@@ -22,7 +22,6 @@ const abhishek = {
     location: "India 🇮🇳",
     education: "B.Tech Computer Science Engineering",
     focus: ["AI/ML", "Full-Stack Development", "Data Analytics"],
-    currentlyLearning: ["TensorFlow", "Advanced React", "System Design"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
