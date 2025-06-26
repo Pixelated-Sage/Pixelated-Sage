@@ -16,14 +16,14 @@
 
 ## 🚀 About Me
 
-```typescript
-const abhishek = {
-    role: "Computer Science Student & Developer",
-    location: "India 🇮🇳",
-    education: "B.Tech Computer Science Engineering",
-    focus: ["AI/ML", "Full-Stack Development", "Data Analytics"],
-    funFact: "I turn coffee into code ☕ → 💻"
-};
+```python
+abhishek = {
+    "role": "Computer Science Student & Developer",
+    "location": "India 🇮🇳",
+    "education": "B.Tech Computer Science Engineering",
+    "focus": ["AI/ML", "Full-Stack Development", "Data Analytics"],
+    "fun_fact": "I turn coffee into code ☕ → 💻"
+}
 ```
 
 I'm a passionate Computer Science student specializing in **AI/ML** and **Full-Stack Development**. I love creating innovative solutions that bridge the gap between cutting-edge technology and real-world applications. My journey involves continuous learning, building impactful projects, and contributing to the tech community.
